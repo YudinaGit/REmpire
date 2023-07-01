@@ -28,20 +28,23 @@ params:
     h3: "✧ "
 menu:
   navs:
-      - name: О клане
+    - name: О клане
       params:
-         img: /img/logo3.png
-         url: /about
-      weight: 1
-
-      - name: Устав
-      params:
-         img: /img/logo3.png
-         url: /404.html
+        img: /img/logo2.png
       weight: 2
-
+      url: /about
     - name: Локации НФ
       params:
         img: /img/logo2.png
       url: /projects/
+      weight: 4
+    - name: Состав
+      params:
+        img: /img/logo3.png
+      url: /about
       weight: 3
+    - name: Устав
+      params:
+        img: /img/logo3.png
+      url: /404.html
+      weight: 2
