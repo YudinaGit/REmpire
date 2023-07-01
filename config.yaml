@@ -3,29 +3,25 @@ module:
         extended: true
         min: "0.87.0"
 baseURL: http://localhost:1313/
-title: Клан REmpire
+title: REmpire
 keywords: REmpire
 description: Сайт клана REmpire
 paginate: 10
 hasCJKLanguage: true
 languageCode: 'en-us'
-theme: # "hugo-theme-onelou"
+theme:
 params:
   opengraph:
-    vk: 'https://vk.com'
+
     twitter: 'https://twitter.com'
     facebook: 'https://facebook.com'
   footer:
-    hidePowered: false # Створено в Україні
-    beian: # ICP备案号
-    gongan:
-      # code: 公安备案号XXXX
-      # txt: 京公网安备XXXX号
+    hidePowered: false
     since: 2020
     copyright: Rempire
   prefix:
-    h2: "※ "
-    h3: "✧ "
+    h2: ""
+    h3: ""
 menu:
   navs:
     - name: О клане
