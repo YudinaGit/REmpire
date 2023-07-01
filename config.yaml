@@ -3,30 +3,26 @@ module:
         extended: true
         min: "0.87.0"
 baseURL: http://localhost:1313/
-title: OneLou
-keywords: OneLou
-description: OneLou
+title: REMPIRE
+keywords: REMPIRE
+description: REMPIRE
 paginate: 10
 hasCJKLanguage: true
 languageCode: 'en-us'
 theme: # "hugo-theme-onelou"
 params:
   opengraph:
-    github: 'https://github.com/jyygithub'
-    gitee: 'https://gitee.com/'
-    csdn: 'https://blog.csdn.net/'
-    juejin: 'https://juejin.cn/'
-    jianshu: 'https://www.jianshu.com/'
+    github: 'https://github.com/'
     twitter: 'https://twitter.com'
     facebook: 'https://facebook.com'
   footer:
-    hidePowered: false # Powered by Hugo & theme OneLou
+    hidePowered: false # Створено в Україні
     beian: # ICP备案号
     gongan:
       # code: 公安备案号XXXX
       # txt: 京公网安备XXXX号
-    since: 2022
-    copyright: XXX
+    since: 2020
+    copyright: Rempire
   prefix:
     h2: "※ "
     h3: "✧ "
