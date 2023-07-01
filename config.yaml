@@ -3,16 +3,16 @@ module:
         extended: true
         min: "0.87.0"
 baseURL: http://localhost:1313/
-title: REMPIRE
-keywords: REMPIRE
-description: REMPIRE
+title: Клан REmpire
+keywords: REmpire
+description: Сайт клана REmpire
 paginate: 10
 hasCJKLanguage: true
 languageCode: 'en-us'
 theme: # "hugo-theme-onelou"
 params:
   opengraph:
-    github: 'https://github.com/'
+    vk: 'https://vk.com'
     twitter: 'https://twitter.com'
     facebook: 'https://facebook.com'
   footer:
@@ -28,28 +28,20 @@ params:
     h3: "✧ "
 menu:
   navs:
-    - name: Блог
+      - name: О клане
       params:
-        img: /img/logo1.png
-      url: /post/
+         img: /img/logo3.png
+         url: /about
       weight: 1
-    - name: Заметки
+
+      - name: Устав
       params:
-        img: /img/logo2.png
+         img: /img/logo3.png
+         url: /404.html
       weight: 2
-      url: /note/
+
     - name: Локации НФ
       params:
         img: /img/logo2.png
       url: /projects/
-      weight: 2
-    - name: О клане
-      params:
-        img: /img/logo3.png
-      url: /about
       weight: 3
-    - name: 404
-      params:
-        img: /img/logo3.png
-      url: /404.html
-      weight: 4
