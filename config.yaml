@@ -28,22 +28,22 @@ params:
     h3: "✧ "
 menu:
   navs:
-    - name: Blog
+    - name: Блог
       params:
         img: /img/logo1.png
       url: /post/
       weight: 1
-    - name: Note
+    - name: Заметки
       params:
         img: /img/logo2.png
       weight: 2
       url: /note/
-    - name: Projects
+    - name: Локации НФ
       params:
         img: /img/logo2.png
       url: /projects/
       weight: 2
-    - name: About
+    - name: О клане
       params:
         img: /img/logo3.png
       url: /about
