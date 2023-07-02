@@ -10,6 +10,7 @@ tags = ["blog", "clean", "light", "dark", "personal"]
 features = ["fast", "simple"]
 
 min_version = "0.87.0"
+ignoreErrors = ["error-remote-getjson"]
 
 [author]
   name = "JIANGYY"
