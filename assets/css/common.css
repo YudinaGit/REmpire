@@ -35,10 +35,21 @@ body {
     font-family: var(--content-font-family);
 }
 
+.neverfate {
+    display: inline-flex;
+    padding-left: 2em;
+    vertical-align: top;
+    font-size: 1.8em;
+}
+
 @media screen and (max-width: 900px) {
     body {
         background-image: var(--body-background-image);
         background-position: top 4em center;
+    }
+    .neverfate {
+        padding-top: 0.5em;
+        padding-left: 0;
     }
 }
 
