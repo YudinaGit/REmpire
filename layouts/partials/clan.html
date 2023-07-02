@@ -1,9 +1,17 @@
+{{/* Определение функции sostav */}}
+{{ define "sostav" }}
+  {{ $response := getJSON (printf "%s?function=sostav&cl=%s" $.Site.Params.apiEndpoint .cl) }}
+  {{ $members := fromJSON $response }}
+  {{ return $members }}
+{{ end }}
+
+{{/* Шаблон вывода состава клана */}}
 {{ define "clan" }}
   <div class="clan">
     <h2>Состав клана</h2>
     <ul>
-      {{ $response := getClanMembers rempire }}
-      {{ range $index, $member := $response }}
+      {{ $clanMembers := template "sostav" . }}
+      {{ range $index, $member := $clanMembers }}
         <li>
           <strong>Логин:</strong> {{ $member.login }}<br>
           <strong>Склонность:</strong> {{ $member.склонность }}<br>
@@ -14,4 +22,5 @@
     </ul>
   </div>
 {{ end }}
+
 
