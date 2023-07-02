@@ -4,8 +4,8 @@ module:
         min: "0.87.0"
 baseURL: http://localhost:1313/
 title: REmpire
-keywords: REmpire
-description: Сайт клана REmpire
+keywords: REmpire, клан империя, невер, неверфейт, сайт клана, neverfate
+description: Сайт клана REmpire из игры Неверфейт.
 paginate: 10
 hasCJKLanguage: true
 languageCode: 'en-us'
@@ -29,18 +29,18 @@ menu:
         img: /img/logo_s.png
       weight: 1
       url: /about
+      - name: Устав
+      params:
+        img: /img/logo_s.png
+      url: /404.html
+      weight: 2
+      - name: Состав
+      params:
+        img: /img/logo_s.png
+      url: /about
+      weight: 3
     - name: Локации НФ
       params:
         img: /img/logo_s.png
       url: /projects/
       weight: 4
-    - name: Состав
-      params:
-        img: /img/logo_s.png
-      url: /about
-      weight: 3
-    - name: Устав
-      params:
-        img: /img/logo_s.png
-      url: /404.html
-      weight: 2
