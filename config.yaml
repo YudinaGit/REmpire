@@ -26,12 +26,12 @@ menu:
   navs:
     - name: О клане
       params:
-        img: /img/logo_s.png
+        img: /img/herb.png
       weight: 2
       url: /about
     - name: Локации НФ
       params:
-        img: /img/logo_s.png
+        img: /img/herb.png
       url: /projects/
       weight: 4
     - name: Состав
