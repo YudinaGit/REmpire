@@ -3,6 +3,5 @@ title: "КАРТЫ"
 date: 2022-09-01T10:17:19+08:00
 draft: false
 description: "Карты мира Never Fate"
-customURL: "#"
-cover: "../images/maps.png"
+cover: "maps.png"
 ---
