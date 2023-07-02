@@ -3,7 +3,8 @@
     --font-color: #d0d3d8;
     --body-background-color: #17181a;
     --content-background-color: #1f2022;
-    --scorllbar-color: #343232;
+    --scorllbar-color: #1f2022;
+    --body-background-image: url(../img/bg.png);
 
     /*--primary-color: #cc7832;*/
     /*--font-color: #000000;*/
@@ -29,6 +30,7 @@ body {
     padding: 0;
     margin: 0;
     background: var(--body-background-color);
+    background-image: var(--body-background-image);
     font-family: var(--content-font-family);
 }
 
