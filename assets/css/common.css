@@ -30,7 +30,8 @@
 body {
     padding: 0;
     margin: 0;
-    background: var(--body-background);
+    *background: var(--body-background-color);
+    background: linear-gradient(to bottom, black 0%,black 32%,black 33%,#FFCC00 66%,#FFCC00 67%,white 67%,#fff 100%)no-repeat!important;
     background-image: var(--body-background-image);
     background-position: top 14em right 8em;
     background-repeat: no-repeat;
