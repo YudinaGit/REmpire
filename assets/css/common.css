@@ -31,7 +31,7 @@ body {
     margin: 0;
     background: var(--body-background-color);
     background-image: var(--body-background-image);
-    background-position: right 35% bottom 45%;
+    background-position: right 35%;
     background-repeat: no-repeat;
     font-family: var(--content-font-family);
 }
