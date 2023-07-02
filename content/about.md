@@ -6,7 +6,7 @@ draft: false
 
 |   |   |
 |---|---|
-| 3 | ![Align Image](http://imgs.neverfate.ru/aligns/align2.png) ![Clan Image](http://imgs.neverfate.ru/clans/DivineAngels.gif) [MONSTRIK](http://neverfate.ru/inf.php?cid=1343657719) |
+| 3 | ![Align Image](https://imgs.neverfate.ru/aligns/align3.gif) ![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif) [- т е н ь -](https://neverfate.ru/inf?cid=1222968784) |
 
 
 
