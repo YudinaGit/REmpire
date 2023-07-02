@@ -31,9 +31,9 @@ body {
     margin: 0;
     background: var(--body-background-color);
     background-image: var(--body-background-image);
-    background-position: top 8em right 16em;
+    background-position:;
+    background-blend-mode: hard-light;
     background-repeat: no-repeat;
-    background-size: 30%;
     font-family: var(--content-font-family);
 }
 
