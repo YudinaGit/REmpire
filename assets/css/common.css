@@ -41,6 +41,12 @@ body {
     vertical-align: top;
     font-size: 1.8em;
 }
+.neverfate a {
+    color: yellow;
+}
+.neverfate a:hover {
+    text-decoration: underline;
+}
 
 @media screen and (max-width: 900px) {
     body {
