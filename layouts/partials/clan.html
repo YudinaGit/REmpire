@@ -1,1 +1,17 @@
+{{ define "clan" }}
+  <div class="clan">
+    <h2>Состав клана</h2>
+    <ul>
+      {{ $response := getClanMembers rempire }}
+      {{ range $index, $member := $response }}
+        <li>
+          <strong>Логин:</strong> {{ $member.login }}<br>
+          <strong>Склонность:</strong> {{ $member.склонность }}<br>
+          <strong>Боевой уровень:</strong> {{ $member.боевой_уровень }}<br>
+          <strong>Местонахождение:</strong> {{ $member.местонахождение }}
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
 
