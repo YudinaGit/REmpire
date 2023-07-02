@@ -24,11 +24,11 @@ params:
     h3: ""
 menu:
   navs:
-    - name: Blog
-      params:
-        img: /img/logo_s.png
-      url: /post/
-      weight: 1
+   # - name: Blog
+   #   params:
+   #     img: /img/logo_s.png
+   #   url: /post/
+   #   weight: 1
     - name: О клане
       params:
         img: /img/logo_s.png
