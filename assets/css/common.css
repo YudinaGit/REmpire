@@ -13,16 +13,16 @@
 
 
     /* 首页标题字体 */
-    --website-title-font-family: "PingFang SC", '宋体', sans-serif;
+    --website-title-font-family: "Arial", '宋体', sans-serif;
     /* 标题字体 */
-    --title-font-family: 'PingFang SC', '宋体', sans-serif;
+    --title-font-family: 'Arial', '宋体', sans-serif;
     /* 正文字体 */
     /* --content-font-family: "JetBrains Mono", 'Mirages Custom', 'Merriweather', 'Open Sans', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'Segoe UI Emoji', 'Segoe UI Symbol', Helvetica, Arial, sans-serif; */
-    --content-font-family: "JetBrains Mono", sans-serif;
+    --content-font-family: "Open Sans", sans-serif;
     /* 座右铭字体 */
-    --motto-font-family: "PingFang SC", sans-serif;
+    --motto-font-family: "Arial", sans-serif;
     /* 代码字体 */
-    --code-font-family: "JetBrains Mono", sans-serif;
+    --code-font-family: "Open Sans", sans-serif;
 }
 
 body {
