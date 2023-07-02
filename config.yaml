@@ -44,7 +44,7 @@ menu:
         img: /img/logo_s.png
       url: /about
       weight: 3
-    - name: Локации НФ
+    - name: Гидлайн НФ
       params:
         img: /img/logo_s.png
       url: /projects/
