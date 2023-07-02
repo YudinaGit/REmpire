@@ -18,7 +18,7 @@ params:
   footer:
     hidePowered: false
     since: 2020
-    copyright: Rempire
+    copyright: REmpire
   prefix:
     h2: ""
     h3: ""
@@ -28,11 +28,11 @@ menu:
       params:
         img: /img/logo_s.png
       weight: 1
-      url: /about
+      url: /about_clan
       - name: Устав
       params:
         img: /img/logo_s.png
-      url: /404.html
+      url: /law.html
       weight: 2
       - name: Состав
       params:
