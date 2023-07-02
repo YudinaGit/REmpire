@@ -29,7 +29,7 @@ menu:
    #     img: /img/logo_s.png
    #   url: /post/
    #   weight: 1
-    - name: О клане
+    - name: История
       params:
         img: /img/logo_s.png
       weight: 2
