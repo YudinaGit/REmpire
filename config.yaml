@@ -24,24 +24,21 @@ params:
     h3: ""
 menu:
   navs:
-    - name: О клане
+      - name: О клане
       params:
          img: /img/logo_s.png
          url: /about_clan
       weight: 1
-
       - name: Устав
       params:
          img: /img/logo_s.png
          url: /law
       weight: 2
-
       - name: Состав
       params:
          img: /img/logo_s.png
          url: /about
       weight: 3
-
       - name: Локации НФ
       params:
          img: /img/logo_s.png
