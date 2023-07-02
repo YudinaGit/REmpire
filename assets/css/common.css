@@ -4,7 +4,7 @@
     --body-background-color: #17181a;
     --content-background-color: #1d1f22;
     --scorllbar-color: #1f2022;
-    --body-background-image: url(../img/bg-front.png), url(../img/bg-4h.jpg);
+    --body-background-image: url(../img/bg-front.png), url(../img/bg-4h.png);
 
     /*--primary-color: #cc7832;*/
     /*--font-color: #000000;*/
@@ -31,8 +31,6 @@ body {
     margin: 0;
     background: var(--body-background-color);
     background-image: var(--body-background-image);
-    background-position:;
-    background-blend-mode: hard-light;
     background-repeat: no-repeat;
     font-family: var(--content-font-family);
 }
