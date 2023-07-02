@@ -24,12 +24,12 @@ params:
     h3: ""
 menu:
   navs:
-      - name: О клане
-      params:
-         img: /img/logo_s.png
-         url: /about_clan
-      weight: 1
-      - name: Устав
+  - name: О клане
+  params:
+     img: /img/logo_s.png
+     url: /about_clan
+  weight: 1
+  - name: Устав
       params:
          img: /img/logo_s.png
          url: /law
