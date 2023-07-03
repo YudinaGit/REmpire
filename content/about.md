@@ -6,8 +6,7 @@ draft: false
 
 <style>
  a {
-  text-decoration: none!important;
-  border: none!important;
+  text-decoration: none;
 }
 </style>
 

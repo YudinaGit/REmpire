@@ -217,7 +217,7 @@ body {
 .content_post a {
     color: var(--font-color);
     text-decoration: none;
-    border-bottom: solid var(--font-color) 1px;
+    /*border-bottom: solid var(--font-color) 1px;*/
 }
 
 .content_post a:hover {
