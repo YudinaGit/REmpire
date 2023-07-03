@@ -149,8 +149,8 @@
 
 .top img {
     position: fixed;
-    top: calc((8vh - 1.776em) / 2);
-    width: 4.644em;
+    /*top: calc((8vh - 1.776em) / 2);*/
+    width: 7.2em;
     /*height: 1.776em;*/
 }
 
