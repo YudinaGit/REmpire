@@ -27,7 +27,7 @@
     color: var(--font-color);
 }
 
-a#current {
+a.selected {
     border-bottom: 2px solid var(--primary-color);
 }
 .center_home h1 {
