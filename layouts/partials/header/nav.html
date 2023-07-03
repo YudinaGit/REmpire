@@ -5,7 +5,7 @@
     <h1 style="padding: 1rem 0 0 8rem;margin: auto;color: goldenrod;">REmpire</h1>
     <nav>
         {{ range .Site.Menus.navs }}
-        <a href="{{ .URL }}">
+        <a href="{{ .URL }}" id="current">
             {{ .Name }}
         </a>
         {{ end }}
