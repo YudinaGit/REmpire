@@ -4,6 +4,16 @@ date: 2022-08-11T10:24:26+08:00
 draft: false
 ---
 
+<style>
+table {
+  text-decoration: none;
+}
+
+table a {
+  text-decoration: none;
+}
+</style>
+
 |   |   |
 |---|---|
 | 3 | ![Align Image](https://imgs.neverfate.ru/aligns/align3.gif) ![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif) [- т е н ь -](https://neverfate.ru/inf?cid=1222968784) [81] ![Inf Image](https://imgs.neverfate.ru/i/inf_1.png) |
