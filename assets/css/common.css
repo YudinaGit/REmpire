@@ -32,6 +32,7 @@ body {
     background: var(--body-background-color);
     background-image: var(--body-background-image);
     background-repeat: no-repeat;
+    background-position: 40% 0;
     font-family: var(--content-font-family);
 }
 
