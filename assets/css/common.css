@@ -149,8 +149,7 @@ body {
     padding-bottom: 0.2em;
     padding-inline-start: 1em;
     padding-inline-end: 1em;
-    font-weight: bold;
-    font-style: italic;
+    color: tan;
     background: var(--body-background-color);
     border-left: var(--primary-color) 0.5em solid;
     border-right: var(--primary-color) 0.5em solid;
