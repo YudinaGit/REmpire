@@ -51,7 +51,7 @@ body {
 @media screen and (max-width: 900px) {
     body {
         background-image: var(--body-background-image);
-        background-position: top 4em center;
+        background-position: 80% -20em;
     }
     .neverfate {
         padding-top: 0.5em;
