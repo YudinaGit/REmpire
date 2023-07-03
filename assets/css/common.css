@@ -218,14 +218,13 @@ body {
     color: var(--font-color);
     text-decoration: none;
     /*border-bottom: solid var(--font-color) 1px;*/
-    transition: all .3s ease-in-out;
+    transition: all .1s ease-in-out;
 }
 
 .content_post a:hover {
     color: var(--primary-color);
     text-decoration: none;
     /*border-bottom: solid var(--primary-color) 1px; */
-    box-shadow: 0 0 22px;
 }
 
 .content_post_button {
