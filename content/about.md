@@ -7,7 +7,7 @@ draft: false
 <style>
  a {
   text-decoration: none!important;
-  border-bottom: none!important;
+  border: none!important;
 }
 </style>
 
