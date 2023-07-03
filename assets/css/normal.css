@@ -31,6 +31,7 @@
     font-size: 6rem;
     padding: 0;
     margin: 0;
+    color: goldenrod;
     font-family: var(--website-title-font-family);
 }
 
