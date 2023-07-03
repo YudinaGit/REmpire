@@ -19,6 +19,12 @@ draft: false
 | 3 | [![Align Image](https://imgs.neverfate.ru/aligns/align3.gif)](https://neverfate.ru/inf?cid=1222968784) [![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif)](https://neverfate.ru/inf?cid=1222968784) **- т е н ь -** [81] [![Inf Image](https://imgs.neverfate.ru/i/inf_1.png)](https://neverfate.ru/inf?cid=1222968784) |
 
 
+|   |   |
+|---|---|
+| 3 | <a href="https://neverfate.ru/inf?cid=1222968784" target="_blank"><img src="https://imgs.neverfate.ru/aligns/align3.gif"></a> <a href="https://neverfate.ru/inf?cid=1222968784" target="_blank"><img src="https://imgs.neverfate.ru/clans/REmpire.gif"></a> **- т е н ь -** [81] <a href="https://neverfate.ru/inf?cid=1222968784" target="_blank"><img src="https://imgs.neverfate.ru/i/inf_1.png"></a> |
+
+
+
 
 
 
