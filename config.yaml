@@ -42,7 +42,7 @@ menu:
     - name: Состав
       params:
         img: /img/logo_s.png
-      url: /about
+      url: /clanmembers
       weight: 3
     - name: Гидлайн НФ
       params:
