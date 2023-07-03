@@ -1,7 +1,7 @@
 <h1>{{ .Title }}</h1>
 <div class="site-nav">
     {{ range .Site.Menus.navs }}
-    <a href="{{ .URL }}" class="{{ if or (eq $.URL .URL) (and (eq $.URL "/") (eq .URL "/index.html")) }}selected{{ end }}">
+    <a href="{{ .URL }}">
         <img src="{{ .Params.img }}" alt="">
         {{ .Name }}
     </a>

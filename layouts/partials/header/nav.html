@@ -5,7 +5,7 @@
     <h1 style="padding: 1rem 0 0 8rem;margin: auto;color: goldenrod;">REmpire</h1>
     <nav>
         {{ range .Site.Menus.navs }}
-        <a href="{{ .URL }}" class="{{ if or (eq $.URL .URL) (and (eq $.URL "/") (eq .URL "/index.html")) }}selected{{ end }}">
+        <a href="{{ .URL }}">
             {{ .Name }}
         </a>
         {{ end }}
