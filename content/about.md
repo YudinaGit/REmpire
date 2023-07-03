@@ -8,33 +8,14 @@ draft: false
  a {
   text-decoration: none;
 }
-a.external {
-  text-decoration: none;
-}
-
-a.external::after {
-  content: "";
-}
-
-img {
-  border: none;
-}
 </style>
-
-|   |   |
-|---|---|
-| 2 | ![Align Image](https://imgs.neverfate.ru/aligns/align3.gif) ![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif) [- т е н ь -](https://neverfate.ru/inf?cid=1222968784) [81] ![Inf Image](https://imgs.neverfate.ru/i/inf_1.png) |
 
 |   |   |
 |---|---|
 | 3 | [![Align Image](https://imgs.neverfate.ru/aligns/align3.gif)](https://neverfate.ru/inf?cid=1222968784) [![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif)](https://neverfate.ru/inf?cid=1222968784) **- т е н ь -** [81] [![Inf Image](https://imgs.neverfate.ru/i/inf_1.png)](https://neverfate.ru/inf?cid=1222968784) |
 
 
-|   |   |
-|---|---|
-| 3 | [![Align Image](https://imgs.neverfate.ru/aligns/align3.gif)](https://neverfate.ru/inf?cid=1222968784) [![Clan Image](https://imgs.neverfate.ru/clans/REmpire.gif)](https://neverfate.ru/inf?cid=1222968784) [- т е н ь -](https://neverfate.ru/inf?cid=1222968784) [81] [![Inf Image](https://imgs.neverfate.ru/i/inf_1.png)](https://neverfate.ru/inf?cid=1222968784) |
-
-
+{{< custom-table number="3" link="https://neverfate.ru/inf?cid=1222968784" alignImage="https://imgs.neverfate.ru/aligns/align3.gif" clanImage="https://imgs.neverfate.ru/clans/REmpire.gif" name="- т е н ь -" numberText="81" infImage="https://imgs.neverfate.ru/i/inf_1.png" >}}
 
 
 
