@@ -2,7 +2,7 @@ module:
     hugoVersion:
         extended: true
         min: "0.87.0"
-baseURL: http://localhost:1313/
+baseURL: https://rempire.netlify.app/
 title: REmpire
 keywords: REmpire, клан империя, невер, неверфейт, сайт клана, neverfate
 description: Сайт клана REmpire из игры Неверфейт.
