@@ -11,9 +11,6 @@ draft: false
  a:hover {
     border:none;
  }
- td {
-    width: 19px;
- }
 </style>
 
 {{< custom-table number="1" alignLink="https://encicl.neverfate.ru/?id=34" alignImage="https://imgs.neverfate.ru/aligns/align3.gif" clanLink="https://encicl.neverfate.ru/?id=43&c=REmpire" clanImage="https://imgs.neverfate.ru/clans/REmpire.gif" name="- т е н ь -" numberText="81" infLink="https://neverfate.ru/inf?cid=1222968784" infImage="https://imgs.neverfate.ru/i/inf_1.png" endText="- Здание администрации" >}}
